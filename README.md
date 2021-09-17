@@ -9,14 +9,15 @@ Check out His works [@Sagor Sarker](https://github.com/sagorbrur)
 
  *Use google colab for better visual experience.
  ## Details
-here, label = {'Happy':0, 'Sadness':1, 'Anger':2, 'Fear':3, 'Surprise':4, 'Neutral':5}
+ Dataset contains Text and label info. for label 
+ ```
+ label = {'Happy':0, 'Sadness':1, 'Anger':2, 'Fear':3, 'Surprise':4, 'Neutral':5}
+ ```
 
 file contains followings:
 
-* **[Emotion classification](https://github.com/XAbirHasan/Python-AI/blob/master/source/A_search.ipynb)**
-* **[dataset (1000 data)](https://github.com/XAbirHasan/Python-AI/blob/master/source/A_search.ipynb)**
-
-
+* **[Emotion classification](https://github.com/XAbirHasan/Bangla-Bert/blob/master/source/bangla_bert_.ipynb)**
+* **[dataset (1000 data)](https://github.com/XAbirHasan/Bangla-Bert/blob/master/datasets/emotional_data.csv)**
 
 ## Authors
 
