@@ -1,5 +1,5 @@
 # Bangla-Bert
- Emotion classification using bangla bert.
+ Emotion classification using bangla bert. (2021)
 
  Here I use bangla bert for emotion classification. It can be use for word sentiment analysis. This file also contains head view and Model view for words.
  Feel fee to use and edit. (Thanks) 
