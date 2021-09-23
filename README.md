@@ -16,8 +16,8 @@ Check out His works [@Sagor Sarker](https://github.com/sagorbrur)
 
 file contains followings:
 
-* **[Emotion classification](https://github.com/XAbirHasan/Bangla-Bert/blob/master/source/bangla_bert_.ipynb)**
-* **[dataset (1000 data)](https://github.com/XAbirHasan/Bangla-Bert/blob/master/datasets/emotional_data.csv)**
+* **[Emotion classification](https://github.com/XAbirHasan/Bangla-Bert/blob/master/source/bangla_bert.ipynb)**
+* **[dataset (1000 data)](https://github.com/XAbirHasan/Bangla-Bert/blob/master/datasets/data.csv)**
 
 ## Authors
 
