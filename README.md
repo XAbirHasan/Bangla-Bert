@@ -27,3 +27,6 @@ Check out my other works [@XAbirHasan](https://github.com/XAbirHasan)
 
 All credit goes to 
 Check out His works [@Sagor Sarker](https://github.com/sagorbrur)
+
+## License
+This work is licensed under a [MIT license](./LICENSE)
